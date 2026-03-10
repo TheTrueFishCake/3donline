@@ -1,0 +1,30 @@
+V0.1:
+	- Basic multiplayer functionality (mostly broken)
+	- Made changelog
+
+V0.2 CHANGES:
+	- Fixed ownership issue with players
+
+V0.3 CHANGES:
+	- Fixed crash when trying to join/make a room
+
+V0.4 CHANGES:
+	- Fixed UI overlap when multiple players are present in a lobby
+	- Fixed error where heads dissapear
+	- Fixed issue where FOV settings did not change camera FOV
+	- Increased mouse sensitivity cap from 1000 to 2000
+V0.5 CHANGES:
+	- Added quit game/disconnect button to pause menu and main menu
+	- Changed skybox in the "test" scene to be the sky skybox instead of default.
+V0.6 CHANGES:
+	- Made hub area, removed test scene
+		- Added football/soccer field to the hub area
+	- Modified sky texture to be more polished
+	- Fixed UI resizing issues (for now)
+	- Changed camera view distance from 50 units to 100
+V0.7 CHANGES:
+	- Added grabbing for certain objects
+	- Added cardfort section to the hub
+		- Allows for construction of cardboard box forts
+	- Raised the roof and barrier in the football arena
+	- Added additional markings to the football arena
