@@ -23,8 +23,12 @@ V0.6 CHANGES:
 	- Fixed UI resizing issues (for now)
 	- Changed camera view distance from 50 units to 100
 V0.7 CHANGES:
-	- Added grabbing for certain objects
-	- Added cardfort section to the hub
-		- Allows for construction of cardboard box forts
-	- Raised the roof and barrier in the football arena
-	- Added additional markings to the football arena
+	- Updated graphics
+		- Added grass texture
+		- Added lines in soccer minigame
+		- Updated checkerboard texture in the hub
+	- Made soccer preview wider
+	- Capped soccer ball speed
+	- Made soccer arena smaller
+	- Made soccer arena taller
+	- Fixed faulty hitboxes with soccer arena nets
