@@ -32,3 +32,5 @@ V0.7 CHANGES:
 	- Made soccer arena smaller
 	- Made soccer arena taller
 	- Fixed faulty hitboxes with soccer arena nets
+V0.8 CHANGES:
+	- Added usernames
