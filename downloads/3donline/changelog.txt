@@ -34,3 +34,14 @@ V0.7 CHANGES:
 	- Fixed faulty hitboxes with soccer arena nets
 V0.8 CHANGES:
 	- Added usernames
+V0.9 CHANGES:
+	- Added player color customization
+	- Added first section of parkour tower
+	- Made ball less bouncy
+	- Raised ball speed cap by 2 times
+	- Changed goal shape of soccer net to be more square
+	- Lowered roof height of soccer arena
+	- Added posts to nets in soccer arena
+	- Added glow balls to hub
+	- Added trail for ball
+	- Added mirror in hub
