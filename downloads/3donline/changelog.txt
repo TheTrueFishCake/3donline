@@ -45,3 +45,5 @@ V0.9 CHANGES:
 	- Added glow balls to hub
 	- Added trail for ball
 	- Added mirror in hub
+V1.0 (BETA):
+	- Added test map for nextbot mode
