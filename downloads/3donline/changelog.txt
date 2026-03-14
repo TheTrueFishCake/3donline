@@ -45,5 +45,15 @@ V0.9 CHANGES:
 	- Added glow balls to hub
 	- Added trail for ball
 	- Added mirror in hub
-V1.0 (BETA):
-	- Added test map for nextbot mode
+V1.0 CHANGES:
+	- Removed mirror in the hub
+	- Removed Skybox
+	- Modified Lighting
+	- Modified net design slightly
+	- Added net texture
+	- Added hats
+		- Mushroom Hat
+		- Top Hat
+		- Sun hat
+	- Added cosmetics room
+	- Made ball trail change color depending on side
