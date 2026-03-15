@@ -61,3 +61,7 @@ V1.1 CHANGES:
 	- Added options for changing smoothing
 	- Improved performance by baking lighting
 	- Added run/walk speed boost in cosmetics room
+V1.2 CHANGES:
+	- Extended height of soccer arena walls (NOT the ceiling)
+	- Added sound effects
+	- Improved performance and lighting quality (lighting is now baked, occlusion culling enabled)
