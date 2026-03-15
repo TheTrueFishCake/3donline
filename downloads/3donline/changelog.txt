@@ -65,3 +65,7 @@ V1.2 CHANGES:
 	- Extended height of soccer arena walls (NOT the ceiling)
 	- Added sound effects
 	- Improved performance and lighting quality (lighting is now baked, occlusion culling enabled)
+	- Started testing of multiple maps
+	- Changed glow orb color in parkour course from yellow to white
+	- Changed the viewport/canvas on website to auto fullscreen
+	-
