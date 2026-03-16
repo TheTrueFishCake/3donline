@@ -69,3 +69,6 @@ V1.2 CHANGES:
 	- Changed glow orb color in parkour course from yellow to white
 V1.3 CHANGES:
 	- Fixed lighting error where players were not illuminated
+V1.4 CHANGES:
+	- Added tag
+	- Removed shadows for players, making them fully bright at all times.
