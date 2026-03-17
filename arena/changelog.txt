@@ -2,3 +2,6 @@ v0.1.0:
 	- Basic multiplayer and movement
 v0.1.1:
 	- Added pause menu and addressed errors with public lobbies
+v0.1.2:
+	- Fixed invisible player bug
+	- Fixed scaling with room browser
