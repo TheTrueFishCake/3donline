@@ -1,0 +1,25 @@
+Below are credits for all assets used in this game. 
+If an asset is not listed, assume it has been created by me, Fishcake.
+
+
+Textures===================================================================
+General Textures:
+https://screamingbrainstudios.itch.io/tiny-texture-pack
+https://screamingbrainstudios.itch.io/tiny-texture-pack-2
+https://screamingbrainstudios.itch.io/tiny-texture-pack-3
+
+https://screamingbrainstudios.itch.io/photorealistic-texture-pack
+https://screamingbrainstudios.itch.io/photorealistic-texture-pack-2
+https://screamingbrainstudios.itch.io/photorealistic-texture-pack-3
+
+Sounds=====================================================================
+
+Tools======================================================================
+Seamless image maker (super useful)
+https://www.imgonline.com.ua/eng/make-seamless-texture.php
+Photon (Multiplayer)
+https://www.photonengine.com/
+Blender
+https://www.blender.org/
+
+Other======================================================================
