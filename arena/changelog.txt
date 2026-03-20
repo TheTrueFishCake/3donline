@@ -5,3 +5,8 @@ v0.1.1:
 v0.1.2:
 	- Fixed invisible player bug
 	- Fixed scaling with room browser
+v0.1.3:
+	- Fixed issue where join button wouldn't work in room browser
+	- Made body tilt with head movement
+	- Added combat
+	- Added map "pools"

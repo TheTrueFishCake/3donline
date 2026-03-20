@@ -13,6 +13,14 @@ https://screamingbrainstudios.itch.io/photorealistic-texture-pack-2
 https://screamingbrainstudios.itch.io/photorealistic-texture-pack-3
 
 Sounds=====================================================================
+Shotgun Pump Sound:
+Sound Effect by <a href="https://pixabay.com/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=38640">freesound_community</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=38640">Pixabay</a>
+Shotgun Firing Noise:
+Sound Effect by <a href="https://pixabay.com/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=6746">freesound_community</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=6746">Pixabay</a>
+Glock Firing Noise:
+Sound Effect by <a href="https://pixabay.com/users/u_b6hqzcpu1z-53117301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=432110">u_b6hqzcpu1z</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=432110">Pixabay</a>
+Reload Sound:
+Sound Effect by <a href="https://pixabay.com/users/dragon-studio-38165424/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=504027">DRAGON-STUDIO</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=504027">Pixabay</a>
 
 Tools======================================================================
 Seamless image maker (super useful)
