@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "src": "/arena/test/Build/(.*)",
+      "dest": "/arena/test/Build/$1"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/arena/test/Build/(.*).wasm",
+      "headers": [
+        { "key": "Content-Type", "value": "application/wasm" }
+      ]
+    }
+  ]
+}
