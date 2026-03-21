@@ -10,3 +10,6 @@ v0.1.3:
 	- Made body tilt with head movement
 	- Added combat
 	- Added map "pools"
+v0.1.4:
+	- Removed glock (for now)
+	- Hopefully fixed game not loading errors
